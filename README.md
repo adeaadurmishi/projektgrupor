@@ -1,2 +1,3 @@
 # projektgrupor
-adea+tringa+rina+drini
+adea+tringa+rina
+
